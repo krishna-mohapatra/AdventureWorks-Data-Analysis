@@ -3,6 +3,12 @@ This project analyzes the sales performance of Adventure Works, a fictional bicy
 
 ![Adventure Sales Tableau Dashboard](https://github.com/user-attachments/assets/f5679c2d-f458-47d5-93cb-1c8465a73c4d)
 
+# Tools Used 
+- SQL 
+- Microsoft Power BI
+- Microsoft Excel
+- Tableau
+
 # Key Features 
 <b> 1. High-Level KPIs <b/> 
   - Sales: ₹29.36M (Total sales value) <br>
