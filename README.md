@@ -69,7 +69,7 @@ This project analyzes the sales performance of Adventure Works, a fictional bicy
 - Total Orders: 60.40K
 
 3. Geographic Performance Analysis
-- ountry-wise and group-wise sales charts reveal top-performing regions (e.g., US and North America).
+- Country-wise and group-wise sales charts reveal top-performing regions (e.g., US and North America).
 - Useful for regional strategy planning.
 
 4. Product-Level Insights
