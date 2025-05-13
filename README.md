@@ -1,5 +1,6 @@
 # AdventureWorks Data Analysis Project using SQL,Excel,Power BI & Tableau.
 This project analyzes the sales performance of Adventure Works, a fictional bicycle manufacturing company. It involves examining key sales metrics such as revenue, profit, product performance, regional trends, and customer segments.
+![Adventure Sales Tableau Dashboard](https://github.com/user-attachments/assets/f5679c2d-f458-47d5-93cb-1c8465a73c4d)
 
 # Key Features 
 <b> 1. High-Level KPIs <b/> 
