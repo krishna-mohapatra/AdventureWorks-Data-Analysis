@@ -28,70 +28,38 @@ This project analyzes the sales performance of Adventure Works, a fictional bicy
   - Top 5 Products:
 
 #  Key Insights
- <b> 1. Sales Dominated by a Few Regions <b/>
   - United States and Australia together contribute over 60% of the total country-wise sales.
   - North America leads in group-wise sales with 38.72%, followed by Pacific and Europe.
-    
-<b> 2. Heavy Reliance on a Single Product Category <b/>
   - The Bikes category contributes a massive 96.46% of all category sales, indicating a very skewed product focus.
-
-<b> 3. Sales Performance Over Time <b/>
   - 2013 was the strongest year, accounting for 55.70% of yearly sales.
   - Sales peak around June and December, with December showing the highest monthly sales at ₹3.21M.
-  
-<b> 4. Top Products Are from the Same Line <b/>
   - All top 5 products are from the Mountain-200 series, just with different sizes, suggesting high customer preference for this specific model.
-
-<b> 5. High Efficiency in Sales Conversion <b/> 
   - A healthy profit margin of 30.65% with ₹29.36M in sales and 60.40K orders reflects strong operational performance.
 
 #  Why This Project Stands Out 
-<b> 1. Clear and Interactive Design <b/> 
   - Intuitive layout with KPIs at the top and detailed visuals below.
   - Interactive filters for metric, year, and category allow users to customize views instantly.
-
-<b> 2. Comprehensive Business Overview <b/> 
   - Covers Sales, Profit, Orders, and Production Cost—enabling multi-metric analysis from one dashboard.<br>
   - Offers insights at global, regional, product, and time-based levels.
-
-<b> 3. Strong Visual Storytelling <b/> 
-
   - Each chart supports a specific business question (e.g., Which country performs best?, Which year was most profitable?). 
   - Use of color-coded visuals and labels improves readability and comparison. 
-
-<b> 4. Performance-Driven Focus <b/> <br/>
-  - Highlights both absolute values (e.g., ₹29.36M in sales) and relative performance (e.g., 96% bike sales).<br/>
-- Makes it easy for stakeholders to identify key drivers and laggards.<br/>
-
-<b> 5. Effective Use of Tableau & Power Bi Features <b/> <br/>
+  - Highlights both absolute values (e.g., ₹29.36M in sales) and relative performance (e.g., 96% bike sales).
+  - Makes it easy for stakeholders to identify key drivers and laggards.<br/>
   - Combines various chart types: bar, pie, line, stacked bars. <br/>
   - Efficient use of parameter controls and dynamic metric switching enhances usability.
 
 #  Project Highlights
-1. Dynamic Metric Selection
 - Users can switch between Sales, Profit, Orders, and Production Cost using radio buttons, making the dashboard flexible and multi-purpose.
-
-2. Key Performance Indicators (KPIs)
 - Total Sales: ₹29.36M
 - Profit Margin: 30.65%
 - Total Orders: 60.40K
-
-3. Geographic Performance Analysis
 - Country-wise and group-wise sales charts reveal top-performing regions (e.g., US and North America).
 - Useful for regional strategy planning.
-
-4. Product-Level Insights
 - Top 5 Products section shows bestsellers—mainly the Mountain-200 series.
 - Category-wise breakdown shows heavy dependence on Bikes (96.46%).
-
-5. Time-Based Trends
 - Monthly Sales line chart highlights peak months.
 - Year-wise sales pie chart helps compare year-over-year performance, with 2013 being the strongest.
-
-6. User-Friendly Filters
 - Year and Category filters allow users to drill down into specific time frames or product lines for deeper analysis.
-
-7. Clean, Branded Design
 - Cohesive color scheme, use of brand logo, and organized layout make the dashboard professional and easy to navigate.
 
 
@@ -108,7 +76,7 @@ This project analyzes the sales performance of Adventure Works, a fictional bicy
   - Power Bi Dashboard Image-![Adventure Sales Power Bi Dasboard ](https://github.com/user-attachments/assets/745be22e-5b1c-40df-b47a-b85b6bef00db)
 
 
-# Insight generated From Dashboard
+# Insights generated From Dashboard
 1. Overdependence on Bikes Category (96.46%)
 - <b>Insight:<b/> Heavy reliance on a single category is risky.
 - <b>Action:<b/> Diversify product offerings by promoting underperforming categories (Accessories & Clothing) through bundling, discounts, or improved marketing strategies.
